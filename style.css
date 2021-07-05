@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.flexible-container{
+    background: url(images/shape/food-bg3.jpg);
+    height: 700px;
+    margin-top: 0px;
+    
+}
+.food-web-first{
+    color: crimson;
+    padding-left: 35%;
+    padding-top: 8%;
+    font-size: 30px;
+    font-weight: bold;
+}
+.choose-color{
+    color: darkorange;
+}
+.menu-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 10px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
+
+.head{
+    font-size: 35px;
+}
+.orange{
+    color: orange;
+}
+.middle-banner{
+    display: flex;
+   
+}
+.mid-width{
+    width: 50%;
+    padding-left:10%;
+    
+   
+}
+.mid-width img{
+    width: 80%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+    
+}
+
+.last-part{
+    background-image: url(images/shape/Frame\ 58.jpg);
+}
+.text-design{
+    margin-top:10%;
+ 
+}
+
+.last-recipe{
+text-align: center;
+margin-left: 30%;
+margin-right: 30%;
+
+}
+
+.experiance-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: px;
+    
+}
+.experiance-item img{
+    margin-right: 6%;
+    margin-top: 4%;
+    border-radius: 20px;
+} 
+.box{
+    width: 40%;
+}
