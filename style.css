@@ -80,14 +80,49 @@ margin-right: 30%;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 20px;
-    border-radius: px;
+    border-radius: 20px;
     
 }
-.experiance-item img{
-    margin-right: 6%;
-    margin-top: 4%;
+.recipe-name img{
+   
+    margin-top: 5%;
     border-radius: 20px;
 } 
-.box{
-    width: 40%;
+.last-banner{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    border-radius: 15px;
+}
+.foot-banner{
+    width: 50%;
+    margin-left: 10%;
+    line-height:5px;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+
+.foot-banner p{
+    font-size: 10px;
+}
+footer{
+    background-color: black;
+    height: 100px;
+}
+.foot-web{
+   text-align: center;
+   margin-top: 10px;
+   
+}
+
+.foot-food{
+    color: orange;
+}
+.foot-world{
+    color: gray;
+}
+.foot-web p{
+    color:gray;
+    font-size: 10px;
 }
